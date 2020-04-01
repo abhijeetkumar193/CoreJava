@@ -12,8 +12,8 @@ public class ConcatAndAppend {
 		System.out.println(str3);
 		
 		
-		System.out.println("Testing the git related");
-		System.out.println("Testing the git related");
+		System.out.println("Testing the git related in branch1");
+		System.out.println("Testing the git related in branch1");
 		System.out.println("Testing the git related");
 	}
 
