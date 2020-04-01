@@ -10,6 +10,11 @@ public class ConcatAndAppend {
 		StringBuilder str4=new StringBuilder("kumar");
 		System.out.println(str3.append(str2));
 		System.out.println(str3);
+		
+		
+		System.out.println("Testing the git related");
+		System.out.println("Testing the git related");
+		System.out.println("Testing the git related");
 	}
 
 }

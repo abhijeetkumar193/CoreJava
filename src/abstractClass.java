@@ -2,6 +2,8 @@
 abstract public class abstractClass {
 
 	int x = 11;
+	
+	
 
 	public abstractClass() {
 		System.out.println("constructor in abstract Class");
